@@ -1,6 +1,7 @@
 x<-c(1,16, -6,pi,sqrt(2),-10)
 length(x)
 y<-numeric(10)
+y
 z<-c(x, 100, 200, y)
 length(z)
 
